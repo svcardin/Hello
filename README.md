@@ -1,2 +1,2 @@
 # Hello
-Intro setup in github 
+Practicing git commands
